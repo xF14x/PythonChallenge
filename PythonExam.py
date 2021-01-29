@@ -1,7 +1,6 @@
 # Programmit By Suliman Al-mohawis | Twitter - F14Commander Snapchat - sulimanxx1 YouTube - F14Commander
-from os import name, system
+from os import system
 from time import sleep
-from typing import get_origin
 # =-=-=-=-=-=-=
 system("clear")
 while True:
