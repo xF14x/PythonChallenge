@@ -1,5 +1,5 @@
 # Programmit By Suliman Al-mohawis | Twitter - F14Commander Snapchat - sulimanxx1 YouTube - F14Commander
-from os import system
+from os import name, system
 from time import sleep
 from typing import get_origin
 # =-=-=-=-=-=-=
@@ -57,6 +57,8 @@ system("clear")
 points = 0
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 if s =="1":
+    QuestionNumber = 1
+    print("Question Number  is", QuestionNumber, "from 3 Questions")
     print(""" 
 1-
 print("F14Commander: Hello")
@@ -90,6 +92,8 @@ print("Pho1Yalfuhaid: fan thanls")
             pass
     sleep(1)
     system("clear")
+    QuestionNumber += 1
+    print("Question Number is", QuestionNumber, "from 3 Questions")
     print(""" 
 1-
 $name = "F14Commander"
@@ -118,6 +122,8 @@ prlnt(name)
             pass
     sleep(1)
     system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 3 Questions")
     print(""" 
 1-
 number = 3
@@ -153,6 +159,8 @@ if number = "3":
     sleep(1)
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 elif s =="2":
+    QuestionNumber = 1
+    print("Question Number is", QuestionNumber, "from 5 Questions")
     print(""" 
 1-
 name "suliman"
@@ -187,6 +195,8 @@ else:
                 pass
     sleep(1)
     system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 5 Questions")
     print(""" 
 1-
 number = 0
@@ -213,6 +223,8 @@ number += 65
             pass
     sleep(1)
     system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 5 Questions")
     print("""
 1-
 name = "suliman"
@@ -240,6 +252,8 @@ if name == "suliman":
             pass
     sleep(1)
     system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 5 Questions")
     print(""" 
 1-
 from os import system
@@ -278,6 +292,8 @@ if name == "suliman":
             pass
     sleep(1)
     system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 5 Questions")
     print(""" 
 1-
 from time import sleep
@@ -326,6 +342,314 @@ print(name)
     sleep(1)
     
 elif s =="3":
+    QuestionNumber = 1
+    print("Question Number is", QuestionNumber, "from 10 Questions")
+    print(""" 
+1-
+name = "salh7"
+print(name)
+ifelse name == "salh7":
+    print("welcome back")
+
+2-
+name = "salh7"
+pint(name)
+if name == "salh7":
+    print("welcome back")
+else:
+    print("hi")
+else:
     pass
+
+3-
+name = "salh7"
+print(name)
+if name == "salh7":
+    print("welcome back")
+else:
+    pass
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="3":
+            points += 1
+            break
+        elif TheSolution == "1" or TheSolution == "2":
+            break
+        else:
+            print("Pleas select from 1 To 3")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print(""" 
+1-
+while True:
+    b = input("Hi How Are You ? : ")
+
+2-
+While True :
+    b = input("Hi How Are You ? : ")
+
+3- 
+while True:
+    b = input(Hi How Are You ? : )
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="1":
+            points += 1
+            break
+        elif TheSolution == "2" or TheSolution == "3":
+            break
+        else:
+            print("Pleas select from 1 To 3")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print(""" 
+1-
+kill = 0
+while kill >= :
+    print("hi")
+
+2-
+kill = 0
+while kll >= 0:
+    print("hi")
+
+3-
+kill = 0
+while kill >= 0:
+    print("hi")
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="3":
+            points += 1
+            break
+        elif TheSolution == "1" or TheSolution == "2":
+            break
+        else:
+            print("Pleas select from 1 To 3")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print(""" 
+1-
+name = "s"
+if name = "s"
+    while True:
+        print("hi")
+
+2-
+name = "s"
+if nane == "s"
+    while True:
+        print("hi")
+
+3-
+name = "s"
+if name == "s"
+    while True:
+        print("hi")
+
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="3":
+            points += 1
+            break
+        elif TheSolution == "1" or TheSolution == "2":
+            break
+        else:
+            print("Pleas select from 1 To 3")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print(""" 
+1-
+import time AS t
+t.sleep(1)
+
+2-
+import time as t
+t.sleep(1)
+
+3-
+import time as t
+tsleep(1)
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="2":
+            points += 1
+            break
+        elif TheSolution == "1" or TheSolution == "3":
+            break
+        else:
+            print("Pleas select from 1 To 3")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print(""" 
+1-
+name = "suliman"
+name = "ali"
+prit("welcome back")
+print("Pleas Enter "1" or "2" ")
+number = input(": ")
+if number = 1:
+    print("1")
+else:
+    pass
+
+2-
+name = "suliman"
+name = "ali"
+print("welcome back")
+print("Pleas Enter "1" or "2" ")
+number = input(": ")
+if number = 1:
+    print("1")
+else:
+    pass
+
+3-
+name = "suliman"
+name = "ali"
+print("welcome back")
+print("Pleas Enter \"1\" or \"2\" ")
+number = input(": ")
+if number = 1:
+    print("1")
+else:
+    pass
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="3":
+            points += 1
+            break
+        elif TheSolution == "1" or TheSolution == "2":
+            break
+        else:
+            print("Pleas select from 1 To 3")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print(""" 
+1-
+number = "21"
+if number = "21" :
+    print("welcome")
+
+2-
+number = "21"
+if number == 21 : print("hi")
+
+3-
+number = 21
+if number = 21 :
+    print("?")
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="2":
+            points += 1
+            break
+        elif TheSolution == "1" or TheSolution == "3":
+            break
+        else:
+            print("Pleas select from 1 To 3")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print("""
+
+21 = "F14Commander"
+
+Error ? (Y/N) :
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="Y" or TheSolution =="y":
+            points += 1
+            break
+        elif TheSolution == "N" or TheSolution == "n":
+            break
+        else:
+            print("Pleas Enter Y or N")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print(""" 
+
+if c = "F14Commander" :
+    pass
+
+Error ? (Y/N)
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="Y" or TheSolution =="y":
+            points += 1
+            break
+        elif TheSolution == "N" or TheSolution == "n":
+            break
+        else:
+            print("Pleas Enter Y or N")
+            pass
+    sleep(1)
+    system("clear")
+    QuestionNumber += 1
+    print("Question Number  is", QuestionNumber, "from 10 Questions")
+    print(""" 
+
+name = "F14Commander"
+if name = "F14Commander" or name = "Suliman":
+    print("hi")
+else:
+    pass
+""")
+    while True:
+        TheSolution = input("==> ")
+        
+        if TheSolution =="Y" or TheSolution =="y":
+            points += 1
+            break
+        elif TheSolution == "N" or TheSolution == "n":
+            break
+        else:
+            print("Pleas Enter Y or N")
+            pass
+    print("")
+    print("your points is",points,"/ 5")
+    print("")
+    sleep(1)
 else:
     pass
