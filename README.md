@@ -1,6 +1,6 @@
 # PythonChallenge
 # <a href="">How To Use</a>
-### how to install
+# how to install
 ### **git clone https://github.com/xF14x/PythonChallenge.git**
 ### **cd PythonChallenge**
 ### **python3 PythonChallenge.py**
