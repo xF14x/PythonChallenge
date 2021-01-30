@@ -6,9 +6,10 @@ system("clear")
 while True:
     print("""
 EN:
-Hi
-This is a exam for Python ProgramLanguage
-it is for 
+Welcome
+This program is useful for Python programmers to help them increase the speed of attention
+For errors during the code book
+We hope you will benefit from it
 
 AR:
 اهلا
@@ -23,7 +24,6 @@ AR:
         break
         sleep(2)
     else:
-        print("Pleas select from 1 To 3")
         pass
     system("clear")
 # =-=-=-=-=-=-=-=-=
@@ -35,9 +35,9 @@ Pleas slect:
 
 Esey(1)
 
-normal(2)
+Normal(2)
 
-hard(3)
+Hard(3)
 
 """)
 
