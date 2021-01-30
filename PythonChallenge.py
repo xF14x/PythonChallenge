@@ -144,10 +144,10 @@ if number = "3":
 
         TheSolution = input("==> ")
     
-        if TheSolution =="1":
+        if TheSolution =="3":
             points += 1
             break
-        elif TheSolution == "2" or TheSolution == "3":
+        elif TheSolution == "1" or TheSolution == "2":
             break
         else:
             print("Pleas select from 1 To 3")
